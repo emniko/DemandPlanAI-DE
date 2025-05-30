@@ -1,0 +1,8 @@
+keras-rl2
+gym
+numpy
+pandas
+sklearn
+tensorflow-cpu==2.10.0
+openpyxl
+scikit-learn
