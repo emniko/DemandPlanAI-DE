@@ -7,5 +7,5 @@ This repository contains a Jupyter Notebook (`rl.ipynb`) which contains the main
 Clone this repository and install requirements:
    ```bash
    git clone https://github.com/emniko/DemandPlanAI-DE.git
-   cd repository-name
+   cd DemandPlanAI-DE
    pip install -r requirements.txt
